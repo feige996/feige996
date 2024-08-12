@@ -40,7 +40,7 @@ Hi, this is 菲鸽( idcup - 谐音： 爱D杯) :wave:
 
 ---
 
-[`codercup`](https://github.com/codercup) 账号因为电脑恢复出厂设置，导致 2fa 验证码和恢复码都丢失，再也无法登录，所以重新创建了这个 [`burt520`](https://github.com/burt520) 账号，并把所有仓库迁移到这里。
+[`codercup`](https://github.com/codercup) 账号因为电脑恢复出厂设置，导致 2fa 验证码和恢复码都丢失，再也无法登录，所以重新创建了这个 [`idcup`](https://github.com/idcup) 账号，并把所有仓库迁移到这里。
 
 ---
 
