@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>-->
 
 <h2 align=center>
-Hi, this is burt520（菲鸽） :wave:
+Hi, this is 菲鸽( idcup - 谐音： 爱D杯) :wave:
 </h2>
 
 <div align=center>
