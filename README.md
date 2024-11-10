@@ -1,5 +1,5 @@
 <!--
-**codercup2/codercup2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**feige100/feige100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 </p>-->
 
 <h2 align=center>
-Hi, this is 菲鸽( codercup2 ) :wave:
+Hi, this is 菲鸽( feige100 ) :wave:
 </h2>
 
 <div align=center>
 
 [![Juejin](https://img.shields.io/badge/juejin-菲鸽-1e80ff?logo=juejin)](https://juejin.cn/user/3263006241460792)
-[![Github Stars](https://img.shields.io/github/stars/codercup2?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/codercup2)
-![Profile View Counter](https://komarev.com/ghpvc/?username=codercup2&base=1000)
+[![Github Stars](https://img.shields.io/github/stars/feige100?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/feige100)
+![Profile View Counter](https://komarev.com/ghpvc/?username=feige100&base=1000)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-34495e?logo=node.js)
@@ -40,31 +40,31 @@ Hi, this is 菲鸽( codercup2 ) :wave:
 
 ---
 
-[`codercup`](https://github.com/codercup) 账号因为电脑恢复出厂设置，导致 2fa 验证码和恢复码都丢失，再也无法登录，所以重新创建了这个 [`codercup2`](https://github.com/codercup2) 账号，并把一些重要的仓库迁移到这里。
+[`codercup`](https://github.com/codercup) 账号因为电脑恢复出厂设置，导致 2fa 验证码和恢复码都丢失，再也无法登录，所以重新创建了这个 [`feige100`](https://github.com/feige100) 账号，并把一些重要的仓库迁移到这里。
 
 public 的仓库迁移过来了，private 的无法访问迁移不了。
 
 ---
 
 <p align="center">
-<img   height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=codercup2&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codercup2&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img   height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=feige100&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feige100&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </p>
 
 <!--#### 🔖 Tech Stack
 
-[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/codercup2)
+[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/feige100)
 -->
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codercup2&theme=monokai" width="100%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codercup2&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feige100&theme=monokai" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feige100&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" />
 
 ### **我的开源项目:**
 
-[![](https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/codercup2/unibest)](https://github.com/codercup2/unibest)
+[![](https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/feige100/unibest)](https://github.com/feige100/unibest)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codercup2&repo=unibest)](https://github.com/codercup2/unibest) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=feige100&repo=unibest)](https://github.com/feige100/unibest) -->
 
 <p align=center>
 
@@ -124,13 +124,13 @@ public 的仓库迁移过来了，private 的无法访问迁移不了。
 <!--
 ## Projects :computer:
 
-[![unibest](https://github-readme-stats.vercel.app/api/pin/?username=codercup2&repo=unibest)](https://github.com/codercup2/unibest)
+[![unibest](https://github-readme-stats.vercel.app/api/pin/?username=feige100&repo=unibest)](https://github.com/feige100/unibest)
 
-[![hello-unibest](https://github-readme-stats.vercel.app/api/pin/?username=codercup2&repo=hello-unibest)](https://github.com/codercup2/hello-unibest)
+[![hello-unibest](https://github-readme-stats.vercel.app/api/pin/?username=feige100&repo=hello-unibest)](https://github.com/feige100/hello-unibest)
 
 ## Analysis :point_down:
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercup2&layout=compact)](https://github.com/codercup2/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=feige100&layout=compact)](https://github.com/feige100/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codercup2&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feige100&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 -->
