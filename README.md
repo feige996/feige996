@@ -28,7 +28,7 @@ Hi, this is 菲鸽( feige996 ) :wave:
 [![Juejin](https://img.shields.io/badge/juejin-菲鸽-1e80ff?logo=juejin)](https://juejin.cn/user/3263006241460792)
 [![Github Stars](https://img.shields.io/github/stars/feige996?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/feige996)
 [![Github Stars - cordercup](https://img.shields.io/github/stars/codercup?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/codercup)
-![Profile View Counter](https://komarev.com/ghpvc/?username=feige996&base=1000)
+![Profile View Counter](https://komarev.com/ghpvc/?username=feige996&base=0)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-34495e?logo=node.js)
