@@ -27,6 +27,7 @@ Hi, this is 菲鸽( feige996 ) :wave:
 
 [![Juejin](https://img.shields.io/badge/juejin-菲鸽-1e80ff?logo=juejin)](https://juejin.cn/user/3263006241460792)
 [![Github Stars](https://img.shields.io/github/stars/feige996?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/feige996)
+[![Github Stars - cordercup](https://img.shields.io/github/stars/codercup?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/codercup)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=feige996&base=1000)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
@@ -46,14 +47,17 @@ public 的仓库迁移过来了，private 的无法访问迁移不了。
 
 ---
 
-<p align="center">
-<img   height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=feige996&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feige996&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</p>
 
-<!--#### 🔖 Tech Stack
+![github stats](https://github-readme-stats.vercel.app/api?username=feige996&show_icons=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=feige996&langs_count=8&layout=compact)
 
-[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,vite,go,python&perline=12)](https://github.com/feige996)
--->
+#### 🔖 Tech Stack
+
+[![My Stack](https://skillicons.dev/icons?i=vue,react,nodejs,js,ts,css,html&perline=12)](https://github.com/feige996)
+
+[![My Stack](https://skillicons.dev/icons?i=docker,nginx,vite,pnpm&perline=12)](https://github.com/feige996)
+
+[![My Stack](https://skillicons.dev/icons?i=vscode,git,github,githubactions,gitlab,&perline=12)](https://github.com/feige996)
 
 ---
 
